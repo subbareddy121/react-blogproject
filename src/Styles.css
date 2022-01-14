@@ -1,0 +1,565 @@
+#head{
+    margin-top: -50px;
+    color: rgb(234, 64, 64);
+    display: flex;
+    justify-content: space-around;
+    height: 60px;
+    font-size: 15px;
+    align-items: center;
+}
+.home:hover{
+    color: chocolate;
+    
+}
+.bolly:hover{
+    color: chocolate; 
+}
+.holly:hover{
+    color: chocolate;
+    
+}
+.tech:hover{
+    color: chocolate;
+    
+}
+.food:hover{
+    color: chocolate;
+    
+}
+.fit:hover{
+    color: chocolate;
+    
+}
+.home,.bolly,.holly,.food,.fit,.tech{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+#main{
+    text-align: center;
+    margin-top: 1px;
+}
+.the{
+    transform: rotate(-90deg);
+    font-size: 25px;
+    color: black;
+}
+.sir{
+    transform: rotate(90deg);
+}
+.img1{
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 80px;
+    background-image: url(download.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    width: 890px;
+
+
+}
+.txt{
+    color: rgb(199, 245, 13);
+    text-shadow: 2px 1px #f0f892;
+    font-size: 30px;
+    
+}
+.part{
+    position: absolute;
+    top: 240px;
+    left: 1000px;
+    background-image: url(download.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 350px
+    
+}
+.part1{
+    position: absolute;
+    top: 450px;
+    left: 1000px;
+    background-image: url(download.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 190px;
+    width: 350px
+    
+}
+.hd1{
+    margin-left: 70px;
+    text-decoration: underline red;
+}
+.img2{
+    margin-left: 20px;
+    background-image: url(img1.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 180px;
+    width: 350px;
+}
+#latest{
+    display: flex;
+    justify-content: space-around;
+}
+.txt1{
+    height: 200px;
+    width: 350px;
+    margin-left: 20px;
+}
+.t1{
+    font-size: 15px;
+    opacity: 0.5;
+}
+.hd2{
+    margin-top: -130px;
+    margin-left: 70px;
+    text-decoration: underline red;
+}
+.img3{
+    margin-left: 110px;
+    background-image: url(img2.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 280px;
+    
+}
+.txt2{
+    height: 200px;
+    width: 350px;
+    margin-left: 340px;
+}
+.t2{
+    margin-top: -60px;
+    height: 200px;
+    width: 350px;
+   margin-left: 340px;
+    font-size: 15px;
+}
+.img4{
+    margin-left: 110px;
+    background-image: url(img2.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120px;
+    width: 280px;
+}
+.txt3{
+    height: 180px;
+    width: 330px;
+    margin-left: 340px;
+    font-size: 12px;
+}
+.t3{
+    margin-top: -100px;
+    height: 200px;
+    width: 350px;
+   margin-left: 340px;
+    font-size: 12px;
+}
+.barr{
+    margin-left: 110px;
+    background-image: url();
+}
+.icon-arrow-down{
+    margin-left: 20px
+}
+.add{
+    text-align: center;
+    position: absolute;
+    top: 1330px;
+    left: 970px;
+    height: 420px;
+    width: 300px;
+    border: 2px solid black;
+    
+}
+.addt{
+    margin-top: 200px;
+    font-size: 30px;
+    color: black;
+}
+.img5{
+    margin-top: 75px;
+    margin-left: 110px;
+    background-image: url(img3.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    width: 820px;
+}
+.txt4{
+    color: rgb(11, 12, 12);
+    text-shadow: 2px 2px #f32c2c;
+    font-size: 40px;
+    margin-left: 280px;
+    position: absolute;
+    top: 2250px;
+    
+}
+.img6{
+    
+    background-image: url(img4.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 400px;
+}
+.hd3{
+    margin-top: 210px;
+    margin-left: -150px;
+    text-decoration: underline red;
+}
+.txt5{
+   
+    font-size: 13px;
+    margin-left: -60px;
+}
+.img7{
+    background-image: url(img2.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80px;
+    width: 180px;
+}
+.txt6{
+    height: 200px;
+    width: 350px;
+    margin-left: 140px;
+    font-size: 13px;
+}
+.t4{
+    margin-top: -160px;
+    height: 200px;
+    width: 350px;
+   margin-left: 140px;
+    font-size: 15px;
+}
+.blk1{
+    margin-top: -180px;
+}
+.hd4{
+    margin-top: 30px;
+    margin-left: 110px;
+    text-decoration: underline red;
+}
+#latest1{
+    margin-left: 110px;
+    display: flex;
+    justify-content: space-around;
+    width: 155px;
+}
+.rarr{
+    margin-top: 280px;
+    margin-left: -1250px;
+}
+.compo{
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-around;
+    width: 125px;
+    margin-top: 300px;
+}
+.bh{
+    margin-left: 50px;
+    margin-top: 10px;
+    color: rgb(125, 74, 8);
+    text-shadow: 2px 2px rgb(206, 240, 155);
+}
+/* .b1{
+    background-image: url(b1.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 440px;
+    width: 880px;
+    margin-left: 60px;
+}
+.p1{
+    
+    position: absolute;
+    top: 260px;
+    left: 1030px;
+    height: 450px;
+    width: 300px;
+    font-size: 20px;
+    line-height: 35px;
+    color: coral;
+}
+.b2{
+    background-image: url(b2.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 340px;
+    width: 680px;
+    margin-left: 700px;
+    margin-top: 50px;
+}
+.p2{
+    position: absolute;
+    top: 860px;
+    left: 80px;
+    height: 430px;
+    width: 600px;
+    font-size: 20px;
+    line-height: 35px;
+}
+.b3{
+    background-image: url(b3.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 440px;
+    width: 680px;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.p3{
+    height: 530px;
+    width: 500px;
+    margin-left: 740px;
+    font-size: 20px;
+    line-height: 55px;
+} */
+.b4{
+    margin-left: 60px;
+    background-image: url(b4.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 320px;
+    
+}
+.t5{
+    margin-top: -35px;
+    height: 200px;
+    width: 350px;
+   margin-left: 340px;
+    font-size: 15px;
+    
+}
+.txt7{
+    height: 200px;
+    width: 450px;
+    margin-left: 340px;
+}
+.bol{
+    position: absolute;
+    top: 400px;
+    left: 900px;
+}
+.b5{
+    margin-left:30px;
+    background-image: url(b4.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 160px;
+    width: 220px;
+    
+}
+.txt8{
+    height: 200px;
+    width: 300px;
+    margin-left: 240px;
+    font-size: 15px;
+}
+.t6{
+    margin-top: -105px;
+    height: 200px;
+    width: 350px;
+   margin-left: 240px;
+    font-size: 15px;
+    
+}
+.badd{
+    position: absolute;
+    top: 900px;
+    right: 160px;
+    border: 2px solid black;
+    height: 700px;
+    width: 350px;
+    text-align: center;
+}
+.bad{
+    margin-top: 300px;
+    font-size: 28px;
+}
+.tech1{
+    margin-left:60px;
+    background-image: url(t1.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 320px;
+    
+}
+.tech2{
+    margin-left:60px;
+    background-image: url(t1.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: 220px;
+    
+}
+.h1{
+    margin-left:60px;
+    background-image: url(h1.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 190px;
+    width: 320px;
+    
+}
+.hol{
+    margin-left:60px;
+    background-image: url(h1.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: 220px;
+    
+}
+.F1{
+    margin-left:60px;
+    background-image: url(Fit.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 190px;
+    width: 320px;
+    
+}
+.F2{
+    margin-left:60px;
+    background-image: url(Fit.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: 220px;
+    
+}
+.Foo1{
+    margin-left:60px;
+    background-image: url(food.webp);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 190px;
+    width: 320px;
+    
+}
+.Foo2{
+    margin-left:60px;
+    background-image: url(food.webp);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: 220px;
+    
+}
+.avtrhead{
+    width: 600px;
+    margin-left: 550px;
+}
+.atit{
+    color: rgb(2, 181, 252);
+    text-shadow: 2px 2px rgb(233, 231, 227);
+}
+.avtr{
+    background-image: url(avtar.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+}
+.atxt{
+    position: absolute;
+    top: 340px;
+    left: 650px;
+    width: 400px;
+}
+.icons{
+    font-size: 18px;
+    position: absolute;
+    top: 10px;
+    left: 230px;
+    opacity: 0.7;
+}
+.opc{
+    opacity: 0.5;
+}
+.icons1{
+    
+    font-size: 18px;
+    position: absolute;
+    top: 430px;
+    left: 230px;
+    opacity: 0.6;
+    
+}
+.artimg{
+    background-image: url(artimg.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    width: 500px;
+}
+.artimg1{
+    background-image: url(artimg1.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    width: 500px;
+}
+.mt{
+    display: flex;
+    gap: 18px;
+    opacity: 0.8;
+}
+.Tol,.Bol,.Hol{
+    border: 1px solid black;
+    width: 70px;
+    padding: 5px;
+    font-size: 13px;
+    background-color: grey;
+    color: black;
+    opacity: 0.9;
+
+}
+.atxt1{
+    position: absolute;
+    top: 1310px;
+    left: 650px;
+    width: 400px;
+}
+.artlast{
+    margin-left: 200px;
+    width: 950px;
+}
+.artlast1{
+    display: flex;
+}
