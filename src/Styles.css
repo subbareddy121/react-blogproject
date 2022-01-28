@@ -64,6 +64,7 @@
     color: rgb(199, 245, 13);
     text-shadow: 2px 1px #f0f892;
     font-size: 30px;
+    text-decoration: none;
     
 }
 .part{
@@ -112,6 +113,13 @@
     width: 350px;
     margin-left: 20px;
 }
+.tdec{
+   
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+}
+
 .t1{
     font-size: 15px;
     opacity: 0.5;
@@ -496,6 +504,12 @@
 }
 .atxt{
     position: absolute;
+    top: 300px;
+    left: 650px;
+    width: 400px;
+}
+.atxt2{
+    position: absolute;
     top: 340px;
     left: 650px;
     width: 400px;
@@ -520,7 +534,7 @@
     
 }
 .artimg{
-    background-image: url(artimg.jpg);
+    background-image: url(sun1.jpg);
     background-position: 50% 10%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -528,8 +542,8 @@
     width: 500px;
 }
 .artimg1{
-    background-image: url(artimg1.jpg);
-    background-position: 50% 10%;
+    background-image: url(sun2.jpg);
+    background-position: 50% 60%;
     background-repeat: no-repeat;
     background-size: cover;
     height: 250px;
@@ -552,6 +566,12 @@
 }
 .atxt1{
     position: absolute;
+    top: 1270px;
+    left: 650px;
+    width: 400px;
+}
+.atxt3{
+    position: absolute;
     top: 1310px;
     left: 650px;
     width: 400px;
@@ -562,4 +582,87 @@
 }
 .artlast1{
     display: flex;
+}
+.artlast2{
+    display: flex;
+}
+.art1img{
+    background-image: url(img4.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    width: 500px;
+}
+.art1img1{
+    background-image: url(download.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    width: 500px;
+}
+.art2img{
+    background-image: url(hist1.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    width: 500px;
+}
+.art2img1{
+    background-image: url(hist2.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    width: 500px;
+}
+.art3img{
+    background-image: url(artimg.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    width: 500px;
+}
+.art3img1{
+    background-image: url(artimg1.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    width: 500px;
+}
+.art4img{
+    background-image: url(tech1.jpg);
+    background-position: 50% 60%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    width: 500px;
+}
+.art4img1{
+    background-image: url(tech2.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    width: 500px;
+}
+.art6img{
+    background-image: url(food1.jpg);
+    background-position: 50% 60%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    width: 500px;
+}
+.art6img1{
+    background-image: url(food2.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    width: 500px;
 }

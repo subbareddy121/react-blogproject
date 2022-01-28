@@ -25,7 +25,7 @@ export default function Hollywood() {
           
           </div>
           <div className='badd'>
-          <NavLink to='./Article'><p className='bad'>Adevertisement</p></NavLink>
+         <p className='bad'>Adevertisement</p>
           </div>
         </div>
     )

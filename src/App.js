@@ -16,6 +16,12 @@ import HLoadMore from './HollyCompos/HLoadMore';
 import FMore from './FitCompos/FMore';
 import FooMore from './FoodCompos/FooMore';
 import Article from './Article';
+import Article1 from './Article1';
+import Article2 from './Article2';
+import Article3 from './Article3';
+import Article4 from './Article4';
+import Article5 from './Article5';
+import Article6 from './Article6';
 
 function App() {
   return (
@@ -35,11 +41,13 @@ function App() {
          <Route path="/fitness/FMore" element={<FMore />}/>
          <Route path="/food/FoodMore" element={<FooMore />}/>
          <Route path="/Article" element={<Article />}/>
-         <Route path="/bollywood/Article" element={<Article />}/>
-         <Route path="/hollywood/Article" element={<Article />}/>
-         <Route path="/technology/Article" element={<Article />}/>
-         <Route path="/fitness/Article" element={<Article />}/>
-         <Route path="/food/Article" element={<Article />}/>
+         <Route path="/Article1" element={<Article1 />}/>
+         <Route path="/Article2" element={<Article2 />}/>
+         <Route path="/bollywood/Article3" element={<Article3 />}/>
+         <Route path="/hollywood/Article3" element={<Article3 />}/>
+         <Route path="/technology/Article4" element={<Article4 />}/>
+         <Route path="/fitness/Article5" element={<Article5 />}/>
+         <Route path="/food/Article6" element={<Article6 />}/>
 
        </Routes>
     

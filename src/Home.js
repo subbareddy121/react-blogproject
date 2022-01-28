@@ -19,9 +19,9 @@ export default function Home() {
     return (
         <div>
         <Component1 />
-        <div className='part'>
+        <NavLink to='./Article1'><div className='part'>
         <span className='txt'>Environmental view</span>
-        </div>
+        </div></NavLink>
         <div className='part1'>
         <span className='txt'>Environmental view</span>
         </div>
@@ -35,7 +35,7 @@ export default function Home() {
        <h1 className='hd2'>Latest Articles</h1>
         <Compo3 />
         <div className='add'>
-        <NavLink to='./Article'><p className='addt'>Addvertisement</p></NavLink>
+       <p className='addt'>Addvertisement</p>
         <diV>
         <h1 className='hd3'>Top Posts</h1>
         <Compo6 />
