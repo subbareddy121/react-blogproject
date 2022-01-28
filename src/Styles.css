@@ -666,3 +666,19 @@
     height: 250px;
     width: 500px;
 }
+.art5img{
+    background-image: url(fit1.jpg);
+    background-position: 50% 60%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    width: 500px;
+}
+.art5img1{
+    background-image: url(fit2.jpg);
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    width: 500px;
+}
